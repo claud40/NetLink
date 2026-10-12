@@ -1,0 +1,6 @@
+{
+  "name": "NetLink",
+  "description": "Unified mobile network management application prototype for Zambia (Airtel, MTN, Zamtel, ZedMobile).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
